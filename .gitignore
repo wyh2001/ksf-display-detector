@@ -1,0 +1,18 @@
+# Data files (regenerate by running scripts)
+*.csv
+*.json
+
+# Keep test fixtures
+!tests/*.csv
+!tests/**/*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
