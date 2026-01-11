@@ -2,7 +2,9 @@
 
 Fetches spectral data from [DisplayCAL Colorimeter Corrections Database](https://colorimetercorrections.displaycal.net/) via its public API and automatically identifies displays using **KSF narrow-band red phosphor (K₂SiF₆:Mn⁴⁺)** based on their spectral characteristics.
 
-Example results are available [here](results/).
+Example results (2012-2025) are available [here](results/). 
+
+To specify the date range, modify `CREATED_SLICES` in `fetch.py`. By default, only 2024–2025 data is fetched.
 
 ## Setup
 
