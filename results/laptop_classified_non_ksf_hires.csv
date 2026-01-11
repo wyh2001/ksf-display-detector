@@ -1,0 +1,9 @@
+display,manufacturer,year,peak_nm,fwhm_nm,sharpness,confidence,vote_ratio,is_laptop_panel,hires_reason
+LEN140WUXGA,Lenovo Group Limited,2025,610.0,66.49,2.51,0.1,0/1,True,keyword:WUXGA
+NE160QDM-NM4,BOE,2025,623.0,26.64,12.06,0.85,0/7,True,code:QDM (inferred)
+B160UAN03.3,AU Optronics,2024,610.0,65.86,2.59,0.11,0/2,True,code:UAN (inferred)
+LQ156D1JX01B,Sharp Corporation,2023,613.0,67.44,2.19,0.08,0/1,True,code:LQ*D1/D2 (Sharp 4K)
+B160QAN02.K,AU Optronics,2022,630.0,45.49,5.1,0.82,0/1,True,code:QAN (inferred)
+LQ156D1JW04,Sharp Corporation,2021,610.0,63.17,2.33,0.09,0/2,True,code:LQ*D1/D2 (Sharp 4K)
+B140QAN02.3,AU Optronics,2020,613.0,66.78,2.2,0.08,0/1,True,code:QAN (inferred)
+LQ156D1JX01,Sharp Corporation,2017,610.0,63.67,2.22,0.08,0/1,True,code:LQ*D1/D2 (Sharp 4K)

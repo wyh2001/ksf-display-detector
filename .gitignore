@@ -6,6 +6,10 @@
 !tests/*.csv
 !tests/**/*.csv
 
+# Keep results
+!results/*.csv
+!results/*.json
+
 # Python
 __pycache__/
 *.pyc

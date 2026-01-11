@@ -1,0 +1,23 @@
+{
+  "started_at": "2026-01-11T05:01:17+00:00",
+  "finished_at": "2026-01-11T05:01:23+00:00",
+  "input_csv": "all_raw_spectra.csv",
+  "output_csv": "all_classified.csv",
+  "require_grouped": true,
+  "append": false,
+  "thresholds": {
+    "peak_range_nm": [
+      628.0,
+      638.0
+    ],
+    "fwhm_max_nm": 35.0,
+    "sharpness_min": 3.0,
+    "sharpness_high": 7.0,
+    "strict_mode": false,
+    "strict_fwhm_max_nm": 25.0
+  },
+  "stats": {
+    "hashes_analyzed": 5059,
+    "likely_ksf": 1747
+  }
+}
